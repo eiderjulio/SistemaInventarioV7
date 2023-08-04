@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gKncRmwCZGk2/g+sQzZBSMp6EECc+1a1MJrdDUUF1Ic=",
+  "Hash": "y7wkg56IFLgkxI8qlja5oe9Bf2ymRz8VNaFYte2PXY8=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1137,6 +1137,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca - Copia.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/marca - Copia.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca - Copia.js"
+    },
+    {
+      "Identity": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

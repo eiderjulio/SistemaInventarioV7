@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
+      "Id": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca - Copia.js",
+      "PackagePath": "staticwebassets\\js\\marca - Copia.js"
+    },
+    {
+      "Id": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
+    },
+    {
       "Id": "C:\\Users\\FAMILIA\\Documents\\PROYECTO .NET 7 SIST INVEN\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
